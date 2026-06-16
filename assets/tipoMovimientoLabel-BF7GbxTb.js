@@ -1,0 +1,1 @@
+import{n as e}from"./tiposMovimiento-Bny4hq8l.js";var t={[e.TRASLADO_ESPECIAL]:e.EXHUMACION};function n(e,n){return e==null||e===``?n(`common.emptyCell`):n(`interments.movementTypes.${t[e]??e}`,{defaultValue:e})}export{n as t};
