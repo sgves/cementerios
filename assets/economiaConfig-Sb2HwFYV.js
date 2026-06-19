@@ -1,0 +1,1 @@
+import{zt as e}from"./index-BDuRG3XN.js";async function t(t){return e.from(`cementerio_config_economica`).select(`codigo_cementerio,opciones`).eq(`codigo_cementerio`,t).maybeSingle()}export{t};
