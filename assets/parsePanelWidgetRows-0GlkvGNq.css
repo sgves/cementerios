@@ -1,0 +1,1 @@
+._grid_lnt85_1{grid-template-columns:repeat(12,1fr);gap:16px;display:grid}._cell_lnt85_7{grid-column:span var(--widget-cols,12);min-width:0}@media (width<=48em){._cell_lnt85_7{grid-column:1/-1}}

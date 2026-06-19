@@ -1,0 +1,1 @@
+function e(e){return e.replace(/\\/g,`\\\\`).replace(/%/g,`\\%`).replace(/_/g,`\\_`)}function t(e){return e.normalize(`NFD`).replace(/[̀-ͯ]/g,``)}export{t as n,e as t};

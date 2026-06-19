@@ -1,1 +1,0 @@
-function e(e){return e.replace(/\\/g,`\\\\`).replace(/%/g,`\\%`).replace(/_/g,`\\_`)}export{e as t};
